@@ -1,0 +1,28 @@
+{
+  "name": "blogs-of-cli",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000l\u0000o\u0000g\u0000s\u0000-\u0000o\u0000f\u0000-\u0000c\u0000l\u0000i\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megh16123/blogs-of-cli.git"
+  },
+  "author": "snoopycoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megh16123/blogs-of-cli/issues"
+  },"dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.1",
+    "inquirer": "^9.0.2",
+    "nanospinner": "^1.1.0"
+  },
+  "homepage": "https://github.com/megh16123/blogs-of-cli#readme"
+}
