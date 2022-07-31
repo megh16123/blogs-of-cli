@@ -1,12 +1,13 @@
 {
   "name": "blogs-of-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "��#\u0000 \u0000b\u0000l\u0000o\u0000g\u0000s\u0000-\u0000o\u0000f\u0000-\u0000c\u0000l\u0000i\u0000\r\u0000 \u0000",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/megh16123/blogs-of-cli.git"
